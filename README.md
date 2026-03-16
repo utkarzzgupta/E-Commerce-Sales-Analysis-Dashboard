@@ -1,4 +1,3 @@
-# E-Commerce-Sales-Analysis-Dashboard
 # 📊 E-commerce Sales Analysis Dashboard – Power BI Project
 
 Welcome! This repository contains a complete **Power BI dashboard project** built to analyze e-commerce sales performance. The dashboard provides actionable insights across customer behavior, product performance, and revenue trends, enabling data-driven business decisions.
